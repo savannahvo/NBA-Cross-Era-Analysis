@@ -22,18 +22,18 @@ Ten offensive metrics that collectively describes a team's scoring efficiency, s
 #### Core Efficiency Metrics:
 1. Offensive Rating (ORtg) Points scored per 100 possessions. This metric is inherently pace-adjusted and is one of the most important indicators of offensive performance.
 2. True Shooting Percentage (TS%) Comprehensive shooting efficiency that accounts for the value of three-point shots and the bonus efficiency from free throws.
-**3. Effective Field Goal Percentage (eFG%)** Field goal percentage adjusted for the added value of made three-point shots.
-**4. Field Goal Percentage (FG%)** Basic shooting efficiency measuring made field goals relative to attempts
+3. Effective Field Goal Percentage (eFG%) Field goal percentage adjusted for the added value of made three-point shots.
+4. Field Goal Percentage (FG%) Basic shooting efficiency measuring made field goals relative to attempts
 
 #### Volume and Style Metrics:
-**5. True Shooting Attempts (TSA)** Represents total shooting volume; incorporating both field goal attempts and free throw attempts (scaled by 0.44).
-**6. Free Throw Rate (FT Rate)** Frequency of free throw attempts relative to field goal attempts, capturing aggression and rim pressure.
-**7. Three-Point Rate (3PT Rate)** Share of field goal attempts that come from beyond the arc, reflecting offensive shot selection and spacing.
+5. True Shooting Attempts (TSA) Represents total shooting volume; incorporating both field goal attempts and free throw attempts (scaled by 0.44).
+6. Free Throw Rate (FT Rate) Frequency of free throw attempts relative to field goal attempts, capturing aggression and rim pressure.
+7. 7. Three-Point Rate (3PT Rate) Share of field goal attempts that come from beyond the arc, reflecting offensive shot selection and spacing.
 
 #### Playmaking and Ball Security:
-**8. Assist Ratio** Assists per made field goal, indicating ball movement and play creation efficiency.
-**9. Assist-to-Turnover Ratio (AST/TOV)** Balances playmaking and ball security by measuring assists relative to turnovers.
+8. Assist Ratio Assists per made field goal, indicating ball movement and play creation efficiency.
+9. Assist-to-Turnover Ratio (AST/TOV) Balances playmaking and ball security by measuring assists relative to turnovers.
 
 #### Second-Chance and Transition:
-**10. Offensive Rebound Percentage (ORB%)** Percentage of available offensive rebounds secured, capturing second-chance creation and transition pressure potential.
+10. Offensive Rebound Percentage (ORB%) Percentage of available offensive rebounds secured, capturing second-chance creation and transition pressure potential.
 
