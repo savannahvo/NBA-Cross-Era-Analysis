@@ -11,16 +11,17 @@ Through standardized metrics and thoughtful visual design, this project provides
 
 ---
 ## Core Structure of the Team Performance Index (TPI)
-The final TPI score is calculated as: TPI = (0.40 x Offense Score) + (0.40 x Defense Score) + (0.20 x Intangibles Score)
-
 This weighting reflects the idea that elite teams are driven primarily by two-way performance with intangibles acting as a meaningful but secondary differentiator.
+
+The final TPI score is calculated as: TPI = (0.40 x Offense Score) + (0.40 x Defense Score) + (0.20 x Intangibles Score) 
+
 ---
 ## Offensive Component (40%)
 Ten offensive metrics that collectively describes a team's scoring efficiency, shooting profile, playmaking, ball security, and second-chance creation. All ten metrics are incorporated into the Total Performance Index (TPI) to produce a multi-dimensional view of offensive strength
 
 #### Core Efficiency Metrics:
-**1. Offensive Rating (ORtg)** Points scored per 100 possessions. This metric is inherently pace-adjusted and is one of the most important indicators of offensive performance.
-**2. True Shooting Percentage (TS%)** Comprehensive shooting efficiency that accounts for the value of three-point shots and the bonus efficiency from free throws.
+1. Offensive Rating (ORtg) Points scored per 100 possessions. This metric is inherently pace-adjusted and is one of the most important indicators of offensive performance.
+2. True Shooting Percentage (TS%) Comprehensive shooting efficiency that accounts for the value of three-point shots and the bonus efficiency from free throws.
 **3. Effective Field Goal Percentage (eFG%)** Field goal percentage adjusted for the added value of made three-point shots.
 **4. Field Goal Percentage (FG%)** Basic shooting efficiency measuring made field goals relative to attempts
 
