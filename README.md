@@ -10,30 +10,5 @@ The analysis uses game-level data from the **Historical NBA Dataset** (1947–pr
 Through standardized metrics and thoughtful visual design, this project provides a balanced, data-driven evaluation of three iconic teams. The TPI framework allows for fair cross-era comparison, revealing how each team performed relative to the expectations and norms of its basketball era. In doing so, it transforms a long-standing subjective debate into a rigorous analytical assessment of historical team greatness.
 
 ---
-## Core Structure of the Team Performance Index (TPI)
-This weighting reflects the idea that elite teams are driven primarily by two-way performance with intangibles acting as a meaningful but secondary differentiator.
-
-The final TPI score is calculated as: TPI = (0.40 x Offense Score) + (0.40 x Defense Score) + (0.20 x Intangibles Score) 
-
----
-## Offensive Component (40%)
-Ten offensive metrics that collectively describes a team's scoring efficiency, shooting profile, playmaking, ball security, and second-chance creation. All ten metrics are incorporated into the Total Performance Index (TPI) to produce a multi-dimensional view of offensive strength
-
-#### Core Efficiency Metrics:
-1. Offensive Rating (ORtg) Points scored per 100 possessions. This metric is inherently pace-adjusted and is one of the most important indicators of offensive performance.
-2. True Shooting Percentage (TS%) Comprehensive shooting efficiency that accounts for the value of three-point shots and the bonus efficiency from free throws.
-3. Effective Field Goal Percentage (eFG%) Field goal percentage adjusted for the added value of made three-point shots.
-4. Field Goal Percentage (FG%) Basic shooting efficiency measuring made field goals relative to attempts
-
-#### Volume and Style Metrics:
-5. True Shooting Attempts (TSA) Represents total shooting volume; incorporating both field goal attempts and free throw attempts (scaled by 0.44).
-6. Free Throw Rate (FT Rate) Frequency of free throw attempts relative to field goal attempts, capturing aggression and rim pressure.
-7. 7. Three-Point Rate (3PT Rate) Share of field goal attempts that come from beyond the arc, reflecting offensive shot selection and spacing.
-
-#### Playmaking and Ball Security:
-8. Assist Ratio Assists per made field goal, indicating ball movement and play creation efficiency.
-9. Assist-to-Turnover Ratio (AST/TOV) Balances playmaking and ball security by measuring assists relative to turnovers.
-
-#### Second-Chance and Transition:
-10. Offensive Rebound Percentage (ORB%) Percentage of available offensive rebounds secured, capturing second-chance creation and transition pressure potential.
+## Interactive Tableau Dashboard
 
