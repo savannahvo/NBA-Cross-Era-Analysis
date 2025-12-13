@@ -11,4 +11,4 @@ Through standardized metrics and thoughtful visual design, this project provides
 
 ---
 ## Interactive Tableau Dashboard
-
+![NBA Team Analysis Dashboard](
