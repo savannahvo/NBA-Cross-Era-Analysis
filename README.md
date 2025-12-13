@@ -10,5 +10,5 @@ The analysis uses game-level data from the **Historical NBA Dataset** (1947–pr
 Through standardized metrics and thoughtful visual design, this project provides a balanced, data-driven evaluation of three iconic teams. The TPI framework allows for fair cross-era comparison, revealing how each team performed relative to the expectations and norms of its basketball era. In doing so, it transforms a long-standing subjective debate into a rigorous analytical assessment of historical team greatness.
 
 ---
-## Interactive Tableau Dashboard
-![NBA Team Analysis Dashboard](NBA_Team_Analysis_Dashboard.png) 
+## Tableau Dashboard
+[![NBA Team Analysis Dashboard](NBA_Team_Analysis_Dashboard.png)](https://public.tableau.com/views/NBATeamAnalysis_17655894436890/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) 
